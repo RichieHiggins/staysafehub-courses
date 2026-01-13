@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://7qTuNyYH3fIlpWoSE_gCVLEukt2l78Za_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Crisis Management</name>
+      <description lang="en-US">The phone rings. An explosion has ripped through one of your manufacturing plants. Two people have been killed, and a dozen others are injured. The media have picked up the story, and reporters are already on site.&amp;nbsp;&lt;br&gt;So, what do you do? How do you respond? How will you move to minimize the damage and take control of the situation? How do you lead others through a crisis&amp;mdash;and land on your feet?&lt;br&gt;This course will help. You&amp;#39;ll learn to prepare for, and potentially prevent, crises &lt;em&gt;before&amp;nbsp;&lt;/em&gt;they occur. And, if disaster does strike, you&amp;#39;ll get tools to help you respond and recover.&lt;br&gt;When you&amp;rsquo;re ready to begin, click on the first lesson below or the &lt;em&gt;&amp;ldquo;Start Course&amp;rdquo;&lt;/em&gt; button above.&amp;nbsp;</description>
+      <launch lang="en-US">scormdriver/indexAPI.html</launch>
+    </activity>
+      <activity id="http://7qTuNyYH3fIlpWoSE_gCVLEukt2l78Za_rise/4gRV4Q3js9BYt6ZnFtvrd11zn1jSa-xr" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">An Introduction to Crisis Management/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://7qTuNyYH3fIlpWoSE_gCVLEukt2l78Za_rise/H5DZHTqKMn0L6j1Tz_VAOgkDxvgoeCXt" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Types of Business Crises/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://7qTuNyYH3fIlpWoSE_gCVLEukt2l78Za_rise/kw4ovgE16iHxAzfRAKbs-Auu84lZ8UlX" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Preventing and Preparing for a Crisis/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://7qTuNyYH3fIlpWoSE_gCVLEukt2l78Za_rise/DDlv9yzRALhe45mlwmiTEO-p6HUHpLyn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Responding to a Crisis/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://7qTuNyYH3fIlpWoSE_gCVLEukt2l78Za_rise/OSM6NzS6gDL5b5QJfaIZiYT8efjVSCh2" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Recovery After a Crisis/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://7qTuNyYH3fIlpWoSE_gCVLEukt2l78Za_rise/mEStDOY6vG-Clg6mPhyPoeyDOAQbYNst" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Summary/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
